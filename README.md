@@ -1,5 +1,5 @@
 # Fumen Tools
-Phython scripts to deal with Taiko no Tatsujin fumens, and do some operations
+Python scripts to deal with Taiko no Tatsujin fumens, and do some operations like calculating ShinUti and generate csv files
 
 All scripts here are made to use specifically with Taiko no Tatsujin Donderful Festival (Nintendo Switch version)
 
